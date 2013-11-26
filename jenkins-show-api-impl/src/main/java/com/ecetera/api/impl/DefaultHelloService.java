@@ -31,6 +31,6 @@ public class DefaultHelloService
 {
     public String sayHello( String who )
     {
-        return "Hello " won't compile  + who;
+        return "Hello " + who;
     }
 }
